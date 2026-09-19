@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "soulsteal_67.aternos.me",
+    "port":62607,
     "version": "",
     "try-creative": false
   },
